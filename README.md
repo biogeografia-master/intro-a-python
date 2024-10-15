@@ -39,7 +39,7 @@ Versión HTML (quizá más legible),
 4.  Sigue los mandatos en tu copia del cuaderno Jupyter, usando Google
     Colab. **IMPORTANTE: en el ejercicio 5 debes elegir una opción, y
     declararla en el foro “En el ejercicio 5 de la PD03, elegí la opción
-    \#**
+    \#”**
 
 5.  Sube tu cuaderno relleno a tu instancia del repo en GitHub. Puedes
     usar el botón de subir archivos directamente en GitHub.
