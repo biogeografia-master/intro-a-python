@@ -12,7 +12,7 @@ Versión HTML (quizá más legible),
 
 # Fecha/hora de entrega
 
-**21 de abril de 2025, 11:59 pm.**
+**28 de abril de 2025, 11:59 pm.**
 
 # Mandato
 
