@@ -1,9 +1,9 @@
 Práctica de desarrollo 3. PD03. Introducción a
 Python<small><br>Biogeografía (GEO-131)<br>Universidad Autónoma de Santo
-Domingo (UASD)<br>Semestre 2024-02</small>
+Domingo (UASD)<br>Semestre 2025-01</small>
 ================
 El Tali
-2024-10-15
+2025-04-22
 
 <!-- README.md se genera a partir de README.Rmd. Por favor, edita ese archivo. -->
 
@@ -12,7 +12,7 @@ Versión HTML (quizá más legible),
 
 # Fecha/hora de entrega
 
-**22 de octubre de 2024, 11:59 pm.**
+**21 de abril de 2025, 11:59 pm.**
 
 # Mandato
 
@@ -24,14 +24,16 @@ Versión HTML (quizá más legible),
 2.  Si estás viendo este texto, y ya tienes tu instancia del repo de la
     asignación (recuerda, tu instancia es un repo terminado con tu
     nombre de usuario de GitHub, alojado en la organización
-    biogeografia-202402), entonces haz clic en [este
+    biogeografia-202501), entonces haz clic en [este
     enlace](https://colab.research.google.com/drive/1hjK4wxiqUK9xAOSJVAywI2vhMgYi4MAA?usp=sharing),
     el cual apunta al cuaderno Jupyter que debes rellenar y entregar (si
     al intentar acceder al cuaderno te preguntase si deseas abrirlo,
     presiona arriba el botón “Abrir” y elige “Google Colaboratory”).
 
-> **IMPORTANTE: tienes que crear tu instancia del repo, pero NO tienes
-> que clonar tu instancia en el servidor de RStudio**.
+> **IMPORTANTE: tienes que crear tu instancia del repo (es decir,
+> aceptar la asignación en GitHub Classroom desde el portal de la
+> asignatura), pero NO tienes que clonar tu instancia en el servidor de
+> RStudio**.
 
 3.  Crea una copia del cuaderno Jupyter en tu Drive de Google, y trabaja
     sobre ella.
@@ -41,5 +43,6 @@ Versión HTML (quizá más legible),
     declararla en el foro “En el ejercicio 5 de la PD03, elegí la opción
     \#”**
 
-5.  Sube tu cuaderno relleno a tu instancia del repo en GitHub. Puedes
-    usar el botón de subir archivos directamente en GitHub.
+5.  Descarga el cuaderno desde Colaboratory y súbelo a tu instancia del
+    repo en GitHub. Puedes usar el botón de subir archivos directamente
+    en GitHub.
